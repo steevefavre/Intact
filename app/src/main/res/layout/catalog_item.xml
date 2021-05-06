@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="@dimen/catalogue_item_width"
+    android:layout_height="@dimen/catalogue_item_height"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/rounded_catalog_item_box"
+    android:layout_margin="@dimen/catalogue_item_margin"
+    >
+
+    <ImageView
+        android:id="@+id/iv_catalogue_item_picture"
+        android:layout_width="@dimen/catalogue_picture_size"
+        android:layout_height="@dimen/catalogue_picture_size"
+        android:contentDescription="TODO"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/no_image"
+        />
+
+    <TextView
+        android:id="@+id/tv_catalogue_item_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_gray"
+        android:textSize="@dimen/catalogue_name_font_size"
+        android:gravity="center"
+        android:layout_margin="5dp"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:paddingLeft="15dip"
+        android:paddingRight="15dip"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        />
+
+</LinearLayout>

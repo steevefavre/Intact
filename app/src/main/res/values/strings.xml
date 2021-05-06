@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Intact App</string>
+    <string name="home_page_title">TASCH</string>
+
+    <string name="catalogue_title">Product catalogue</string>
+
+
+    <string name="wish_list">Your wish list</string>
+    <string name="wish_list_out_of_stock">Out of stock</string>
+    <string name="wish_list_sub_total_label">Sub-total</string>
+    <string name="wish_list_total_label">Total</string>
+    <string name="wish_list_proceed_button_text">Proceed to check out</string>
+
+    <string name="shipping">Free shipping World Wide</string>
+
+    <string name="product_details_color_title">Colours</string>
+    <string name="product_details_size_title">Size</string>
+    <string name="product_details_rating_title">Rate the product</string>
+    <string name="product_details_add_button_text">Add to wish list</string>
+    <string name="product_details_remove_button_text">Remove from wish list</string>
+
+
+    <string name="dialog_proceed_wish_list_ok_button">OK</string>
+    <string name="dialog_proceed_wish_list_cancel_button">Cancel</string>
+    <string name="dialog_proceed_wish_list_message">Are you sure you want to proceed to check out?</string>
+
+    <string name="currency_dollar_symbol">$</string>
+
+</resources>

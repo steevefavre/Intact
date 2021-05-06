@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- wish list -->
+    <dimen name="wish_list_title_font_size">20sp</dimen>
+    <dimen name="wish_list_picture_size">80dp</dimen>
+    <dimen name="wish_list_price_text_size">20sp</dimen>
+    <dimen name="wish_list_name_text_size">20sp</dimen>
+    <dimen name="wish_list_desc_text_size">15sp</dimen>
+    <dimen name="wish_list_shipping_font_size">17sp</dimen>
+    <dimen name="wish_list_proceed_button_width">250dp</dimen>
+    <dimen name="wish_list_proceed_button_height">50dp</dimen>
+
+    <!-- catalog -->
+    <dimen name="catalogue_picture_size">80dp</dimen>
+    <dimen name="catalogue_title_font_size">20sp</dimen>
+    <dimen name="catalogue_name_font_size">13sp</dimen>
+    <dimen name="catalogue_item_height">120dp</dimen>
+    <dimen name="catalogue_item_width">120dp</dimen>
+    <dimen name="catalogue_item_margin">5dp</dimen>
+
+    <!-- product details -->
+    <dimen name="product_detail_picture_size">200dp</dimen>
+    <dimen name="product_detail_shipping_font_size">12sp</dimen>
+    <dimen name="product_detail_size_font_size">15sp</dimen>
+    <dimen name="product_detail_price_font_size">25sp</dimen>
+    <dimen name="product_detail_title_font_size">20sp</dimen>
+    <dimen name="product_detail_title_star_size">30dp</dimen>
+    <dimen name="product_detail_action_button_width">200dp</dimen>
+    <dimen name="product_detail_action_button_height">50dp</dimen>
+    <dimen name="product_detail_title_width">100dp</dimen>
+
+    <!-- colors details -->
+    <dimen name="color_item_size">40dp</dimen>
+
+    <!-- dialog  -->
+    <dimen name="dialog_button_width">100dp</dimen>
+    <dimen name="dialog_button_height">40dp</dimen>
+    <dimen name="dialog_button_message_text_size">23sp</dimen>
+
+    <!-- action bar  -->
+    <dimen name="action_bar_home_title">25sp</dimen>
+</resources>
